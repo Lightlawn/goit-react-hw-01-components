@@ -1,30 +1,30 @@
 [
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/763/763704.svg",
+    "avatar": "https://img.icons8.com/doodle/480/000000/bt21-shooky.png",
     "name": "Mango",
     "isOnline": true,
     "id": 1812
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998671.svg",
+    "avatar": "https://img.icons8.com/doodle/480/000000/bt21-mang.png",
     "name": "Kiwi",
     "isOnline": false,
     "id": 1137
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1623/1623681.svg",
+    "avatar": "https://img.icons8.com/doodle/480/000000/bt21-koya.png",
     "name": "Ajax",
     "isOnline": true,
     "id": 1213
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/2977/2977285.svg",
+    "avatar": "https://img.icons8.com/doodle/480/000000/totoro.png",
     "name": "Jay",
     "isOnline": true,
     "id": 1714
   },
   {
-    "avatar": "https://www.flaticon.com/svg/static/icons/svg/1998/1998749.svg",
+    "avatar": "https://img.icons8.com/doodle/480/000000/bt21-rj.png",
     "name": "Poly",
     "isOnline": false,
     "id": 1284
